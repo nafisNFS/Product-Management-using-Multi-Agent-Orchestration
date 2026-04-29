@@ -42,33 +42,6 @@ SQLite DB SQLite DB
 
 ---
 
-## 📁 Project Structure
-
-
-multi_agent_mcp/
-│
-├── database/
-│ ├── inventory_database.py
-│ └── transport_database.py
-│
-├── mcp_servers/
-│ ├── product_mcp.py
-│ └── transport_mcp.py
-│
-├── agents/
-│ ├── agent_registry.py
-│ ├── inventory_agent.py
-│ ├── transport_agent.py
-│ └── setup_agents.py
-│
-├── supervisor/
-│ └── supervisor.py
-│
-└── requirements.txt
-
-
----
-
 ## ⚙️ Installation
 
 ```bash
